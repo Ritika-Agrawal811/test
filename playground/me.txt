@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ritika
+Skills: HTML, CSS, JS, React.js, Tailwind CSS, Bootstrap
+Email: ritikaagrawal339@gmail.com
+{{/user}}
